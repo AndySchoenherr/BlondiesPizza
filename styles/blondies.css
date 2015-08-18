@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+img {
+	max-width: 100%;
+}
+
+body {
+	background: #58a37a url(../images/background2.jpg);	
+	background-repeat:no-repeat;
+    background-size:cover;
+}
+
+
+
+.icon {
+	height: 175%;	
+}
+
+.navigation {
+	
+	
+	
+}
+
+.top_headline {
+	margin-top: 5px;
+	padding-top: 10px;
+	
+}
+
+.border {
+	
+	
+	border: 3px solid #fff102;
+	border-radius: 30px;
+	background-color:#fff;
+	 opacity: 0.6;
+    filter: alpha(opacity=60);
+		
+}
+
+.callToAction {
+	text-align: center;
+	border-bottom: 5px solid #8e1e30;
+}
+
+.Lora {
+	font-family: 'Lora', sans-serif;
+	font-weight: 700;
+	color: #fff102;
+	text-shadow: 1px 1px #000;	
+}
+
+.Lora2 {
+	font-family: 'Lora', sans-serif;
+	font-weight: 400;	
+	color: #fff102;
+	text-shadow: 2px 2px #000;
+}
+
+.Lora3 {
+	text-align: center;
+	font-family: 'Lora', san-serif;
+	font-weight: 700;
+	color: #000;	
+	
+}
+
+.Lora4 {
+	text-align: center;
+	font-family: 'Lora', san-serif;
+	font-weight: 400;	
+	color: #000;
+	
+}
+
+#overlay {
+  background: rgba(0,0,0,0.7);
+  width: 100%;
+  height: 150%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: none;
+  text-align: center;
+}
+  
+#overlay img: {
+  margin-top: 10%;
+}
+  
+ #overlay p {
+    color: white;
+} 
+
+.phone {
+	height: 50%;
+	width: 50%;
+	text-align: center;
+}
+
+
+
